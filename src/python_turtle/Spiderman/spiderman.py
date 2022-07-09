@@ -1,4 +1,3 @@
-# Import turtle package
 import turtle
 
 # Set the turtle object

@@ -1,4 +1,3 @@
-# Import turtle package
 import turtle
 
 # Part 1 : Initialize the module

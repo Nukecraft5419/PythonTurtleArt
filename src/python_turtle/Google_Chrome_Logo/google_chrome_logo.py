@@ -1,4 +1,3 @@
-# Import turtle package
 import turtle
 
 # get the instance of turtle
