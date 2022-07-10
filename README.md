@@ -1,4 +1,4 @@
-# PythonTurtleArtArt
+# Python Turtle Art
 
 <ul>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/49_Color_Rainbow">49 Color Rainbow</a></li>
