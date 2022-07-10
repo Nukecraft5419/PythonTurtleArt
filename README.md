@@ -11,5 +11,5 @@
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Penguin">Penguin</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Spiderman">Spiderman</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Spiral_Shapes">Spiral Shapes</a></li>
-<li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Windows10_Logo">Windows10 Logo</a></li>
+<li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Windows10_Logo">Windows 10 Logo</a></li>
 </ul>
