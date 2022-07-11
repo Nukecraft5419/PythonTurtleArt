@@ -6,8 +6,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("white")
-window.title("Capitan America Shield")
+window.bgcolor("white")  # background color
+window.title("Capitan America Shield")  # title of the window
 
 
 def ankur(x, y):

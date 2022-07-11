@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("white")
-window.title("Netlifx Logo")
+window.bgcolor("white")  # background color
+window.title("Netlifx Logo")  # title of the window
 
 t.speed(4)
 t.color("black")

@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("pink")
-window.title("Spiral Shapes")
+window.bgcolor("pink")  # background color
+window.title("Spiral Shapes")  # title of the window
 
 # set speed of the turtle
 t.speed(20)

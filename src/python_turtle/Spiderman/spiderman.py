@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("red")
-window.title("SpiderMan Logo")
+window.bgcolor("red")  # background color
+window.title("SpiderMan Logo")  # title of the window
 
 # draw the head
 t.goto(0, 0)

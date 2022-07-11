@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("white")
-window.title("Google Chrome Logo")
+window.bgcolor("white")  # background color
+window.title("Google Chrome Logo")  # title of the window
 
 radius = 120
 

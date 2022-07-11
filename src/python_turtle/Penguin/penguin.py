@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("#caf0f8")
-window.title("Penguin")
+window.bgcolor("#caf0f8")  # background color
+window.title("Penguin")  # title of the window
 
 t.speed(1)
 

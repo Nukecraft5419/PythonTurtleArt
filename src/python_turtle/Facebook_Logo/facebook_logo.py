@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("black")
-window.title("Facebook Logo")
+window.bgcolor("black")  # background color
+window.title("Facebook Logo")  # title of the window
 
 t.speed(10)
 t.color("#0270d6")

@@ -7,6 +7,7 @@
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Google_Chrome_Logo">Google Chrome Logo</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Infinity_Circle">Infinity Circle</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Ironman">Ironman</a></li>
+<li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Javascript_Logo">Javascript Logo</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Netflix_Logo">Netflix Logo</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Penguin">Penguin</a></li>
 <li><a href="https://github.com/Nukecraft5419/PythonTurtleArt/tree/main/src/python_turtle/Spiderman">Spiderman</a></li>

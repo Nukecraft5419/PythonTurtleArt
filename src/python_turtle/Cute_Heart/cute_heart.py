@@ -5,8 +5,8 @@ t = turtle.Turtle()
 
 window = turtle.Screen()
 window.setup(width=700, height=700)
-window.bgcolor("black")  # set the Back Ground color
-window.title("Cute Heart")
+window.bgcolor("black")  # background color
+window.title("Cute Heart")  # title of the window
 
 # set the pen size
 t.pensize(4)
